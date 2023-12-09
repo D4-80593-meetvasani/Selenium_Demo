@@ -228,7 +228,7 @@ describe('Registration Form Tests', function () {
 //   });
 
 //   it('Positive Test Case - Mixed Case Email', async function () {
-//     // ...
+    // ...
   
 //     // Verify the registration success
 //     const resultElement = await driver.findElement(By.id('alert'));
