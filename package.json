@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chai": "^4.3.10",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.16.0"
+  },
+  "name": "selenium-demo",
+  "version": "1.0.0",
+  "main": "my_website_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
